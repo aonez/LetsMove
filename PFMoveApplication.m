@@ -236,9 +236,11 @@ fail:
 	}
 }
 
+/*
 BOOL PFMoveIsInProgress() {
     return MoveInProgress;
 }
+*/
 
 #pragma mark -
 #pragma mark Helper Functions
