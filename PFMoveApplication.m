@@ -1,5 +1,5 @@
 //
-//  PFMoveApplication.m, version 1.23
+//  PFMoveApplication.m, version 1.24
 //  LetsMove
 //
 //  Created by Andy Kim at Potion Factory LLC on 9/17/09
@@ -9,7 +9,6 @@
 #import "PFMoveApplication.h"
 
 #import <AppKit/AppKit.h>
-#import <Foundation/Foundation.h>
 #import <Security/Security.h>
 #import <dlfcn.h>
 #import <sys/mount.h>
